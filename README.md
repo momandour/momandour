@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @momandour
+- 👋 Hi, I’m Mohamed Mandour
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Javascript
 - 📫 How to reach me ... Whatsapp (01113181490)
